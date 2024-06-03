@@ -14,7 +14,7 @@ In school, computer science was a favorite subject of mine. However, growing up 
 * ⚡  I am keen on ancient civilisations and know Chinese language (中国公司欢迎合作)
 
 <a href="https://www.github.com/niyatanya" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/niyatanya?logo=github&style=for-the-badge&color=ec4899&labelColor=134e4a" /></a>
+src="https://img.shields.io/github/followers/niyatanya?logo=github&style=for-the-badge&color=14b8a6&labelColor=134e4a" /></a>
 
 ### Skills
 
@@ -32,12 +32,12 @@ src="https://img.shields.io/github/followers/niyatanya?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/niyatanya"><img src="https://github-readme-stats.vercel.app/api?username=niyatanya&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=134e4a&hide_border=true&show_icons=true" alt="niyatanya's GitHub stats" /></a>
+<a href="http://www.github.com/niyatanya"><img src="https://github-readme-stats.vercel.app/api?username=niyatanya&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=134e4a&hide_border=true&show_icons=true" alt="niyatanya's GitHub stats" /></a>
 
-<a href="http://www.github.com/niyatanya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=niyatanya&bg_color=134e4a&color=ffffff&line=ec4899&point=ffffff&area_color=134e4a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/niyatanya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=niyatanya&stroke=ffffff&background=134e4a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/niyatanya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyatanya&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/niyatanya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyatanya&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/niyatanya/java-project-71" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=niyatanya&repo=java-project-71&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=134e4a&hide_border=true&locale=en" /></a><a href="https://github.com/niyatanya/java-project-61" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=niyatanya&repo=java-project-61&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=134e4a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/niyatanya/java-project-71" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=niyatanya&repo=java-project-71&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=134e4a&hide_border=true&locale=en" /></a><a href="https://github.com/niyatanya/java-project-61" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=niyatanya&repo=java-project-61&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=134e4a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
