@@ -10,15 +10,12 @@ I am currently completing a professional training program at Hexlet. Throughout 
 
 Now, I am actively seeking a position as a Java developer. My goal is to continue expanding my skills and become a well-rounded developer in the future. I look forward to your response!
 
-* 🌍  I'm based in Almaty
+* 🌍  I'm based in Almaty/Moscow
 * ✉️  You can contact me at [jouk@list.ru](mailto:jouk@list.ru)
 * 🚀  I'm currently working on [Web-pages analyser](http://github.com/niyatanya/niyatanya.github.io)
 * 🧠  I'm learning a Web-developement at [Hexlet](https://ru.hexlet.io/programs/java)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am keen on ancient civilisations and know Chinese language (中国公司欢迎合作)
-
-<a href="https://www.github.com/niyatanya" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/niyatanya?logo=github&style=for-the-badge&color=ec4899&labelColor=0f172a" /></a>
 
 ### Skills
 
@@ -40,10 +37,4 @@ src="https://img.shields.io/github/followers/niyatanya?logo=github&style=for-the
 
 <a href="http://www.github.com/niyatanya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=niyatanya&stroke=ffffff&background=0f172a&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/niyatanya"><img src="https://github-readme-activity-graph.vercel.app/graph?username=niyatanya&bg_color=0f172a&color=ffffff&line=ec4899&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/niyatanya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyatanya&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/niyatanya/java-project-71" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=niyatanya&repo=java-project-71&title_color=64748b&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/niyatanya/java-project-61" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=niyatanya&repo=java-project-61&title_color=64748b&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
