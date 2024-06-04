@@ -36,6 +36,8 @@ src="https://img.shields.io/github/followers/niyatanya?logo=github&style=for-the
 
 <a href="http://www.github.com/niyatanya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=niyatanya&stroke=ffffff&background=134e4a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/niyatanya"><img src="https://github-readme-activity-graph.vercel.app/graph?username=niyatanya&bg_color=134e4a&color=ffffff&line=14b8a6&point=ffffff&area_color=134e4a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <a href="https://github.com/niyatanya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyatanya&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
