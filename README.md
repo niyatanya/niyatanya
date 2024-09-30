@@ -1,29 +1,45 @@
-Hi 👋 My name is Tanya
+Hi 👋 Nice to meet you! My name is Tanya
 ======================
 
-Junior Java Developer
+Java Developer
 -------------------------------------------------
 
-In school, computer science was a favorite subject of mine. However, growing up in a remote northern village limited my opportunities for in-depth study. As an adult, and having already established myself in other professions, I seized the chance to delve into this field that had always fascinated me. 
+I switched to programming from QA in linguistics. And in my opinion, these fields have a lot in common.
 
-I am currently completing a professional training program on Backend Developement with Java at [Hexlet](https://ru.hexlet.io/programs/java). Throughout this journey, I have undertaken various projects, gaining expertise in:
+I am able to develop backend of web services from scratch. Please have a look at [Task Manager](https://github.com/niyatanya/java-project-99) or [Web-pages analyser](https://github.com/niyatanya/java-project-72) as an example. These are two programs written on Java 21 and Spring/Javalin+Gradle.
+
+Here are my practical skills:
 - Java Core
+- Spring (Boot, Data, Security)
+- Hibernate
 - Gradle
-- Spring Boot
-- Git
+- REST-like API
+- CI/CD, TDD
 - unit and integration testing
-- CI, TDD
 - design patterns, data structures, OOP principles
+- SOLID, DRY, KISS
 - HTML, CSS, HTTP
-- SQL
+- SQL (PostgreSQL)
+- JSON, YAML
+- Git
+- Sentry, Swagger
 
-Now, I am actively seeking a position as a Java developer. My goal is to continue expanding my skills and become a well-rounded developer in the future. Please feel free to contact me!
+These are the tools I understand:
+- Concurrency: synchronized, Thread, CompletableFuture
+- Spring (WebFlux), Netty
+- Kafka
+- Flyway/Liquibase
+
+Now I am looking for a job as a Java developer. My goal is to further develop my skills and make a positive contribution to the society.
 
 * 🌍  I'm based in Almaty/Moscow
-* ⚒️  I'm currently working on [Task Manager](https://github.com/niyatanya/java-project-99)
+* ⚒️  I'm looking for a fulltime job, remote or office in Almaty/Moscow
 * 🧠  I'm reading [Code: The Hidden Language of Computer Hardware and Software](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software) by Charles Petzold
+* 🤓  I'm visiting [Google DevFest Almaty](https://gdg.community.dev/events/details/google-gdg-almaty-presents-google-devfest-almaty-2024/)
 * 🤩  I am keen on ancient civilisations, arts and travelling and love cyberpunk games
-* 🥷  I learned Chinese language and can use it at work. 中国公司欢迎合作！
+* 🥷  I can use Chinese language at work. 中国公司欢迎合作！
+
+Please feel free to contact me!
 
 ### Skills
 
