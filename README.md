@@ -10,7 +10,7 @@ I am able to develop backend of web services from scratch. Please have a look at
 
 Here are my practical skills:
 - Java Core
-- Spring (Boot, Data, Security)
+- Spring (Boot, Data)
 - Hibernate
 - Gradle
 - REST-like API
@@ -19,7 +19,7 @@ Here are my practical skills:
 - design patterns, data structures, OOP principles
 - SOLID, DRY, KISS
 - HTML, CSS, HTTP
-- SQL (PostgreSQL)
+- SQL (PostgreSQL, Liquibase)
 - JSON, YAML
 - Git
 - Sentry, Swagger
@@ -28,7 +28,7 @@ These are the tools I understand:
 - Concurrency: synchronized, Thread, CompletableFuture
 - Spring (WebFlux), Netty
 - Kafka
-- Flyway/Liquibase
+- Flyway
 
 Now I am looking for a job as a Java developer. My goal is to further develop my skills and make a positive contribution to the society.
 
